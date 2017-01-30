@@ -1,0 +1,5 @@
+# IR transmit and receive on machine touch probe
+# Low power mode until receive wake up signal from machine board
+# Sends signal to machine board on input pin going high
+# Sends signal to machine board for low battery condition
+# LED lights on while probe awake, and when probe makes contact
