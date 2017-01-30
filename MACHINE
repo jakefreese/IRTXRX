@@ -1,0 +1,5 @@
+# uses MSP430 microcontroller
+# Can send wake up signal to probe when receives a wake up/start signal from machine controller
+# receives a probe touch signal from probe, change state on output pin to take machine controller pin low through transistor
+# receives low battery alert to change state on output pin to take machine controller pin low through transistor
+# Status light on machine side that will light up when probe touches 
